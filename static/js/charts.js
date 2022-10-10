@@ -73,8 +73,7 @@ function init() {
       var otuLabels = firstSample.otu_labels;
       var sampleValues = firstSample.sample_values;
       console.log(otuIds);
-      console.log(otuLabels);
-      //console.log("hello");
+      console.log(otuLabels)
       console.log(sampleValues);
   
       // 7. Create the yticks for the bar chart.
