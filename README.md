@@ -10,7 +10,7 @@ Using JavaScript, Plotly, and D3.js to create an interactive dashboard to displa
 
 ## Results
 
-**View the dashboard [here:](https://halesoysters.github.io/halesoysters.1.github.io/)**
+## **View the dashboard [here:](https://halesoysters.github.io/halesoysters.1.github.io/)**
 
 ![header](static/images/bar.png) 
 
